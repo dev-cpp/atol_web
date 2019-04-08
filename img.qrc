@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icons-for-atol_07.png</file>
+        <file>icons-for-atol_10.png</file>
+        <file>icons-atol_03.ico</file>
+    </qresource>
+    <qresource prefix="/trs">
+        <file>qt_ru.qm</file>
+    </qresource>
+</RCC>

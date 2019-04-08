@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<settings>
+    <device>
+        <id>1</id>
+        <port>4</port>
+    </device>
+
+    <!--device type="eors">
+        <id>1</id>
+        <app>
+            <port>COM33</port>
+            <baudrate>115200</baudrate>
+        </app>
+        <dev>
+            <port>COM1</port>
+            <baudrate>115200</baudrate>
+        </dev>
+        <protocol>3</protocol>
+    </device-->
+</settings>
